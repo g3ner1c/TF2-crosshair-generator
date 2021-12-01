@@ -1,0 +1,18 @@
+@font-face {
+    font-family: TeamFortress;
+    src: 'fonts/TF2secondary.ttf';
+}
+
+@font-face {
+    font-family: TeamFortress;
+    font-weight: bold;
+    src: 'fonts/TF2secondary.ttf';
+}
+
+html {
+    font-family: TeamFortress, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
