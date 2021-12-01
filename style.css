@@ -1,12 +1,12 @@
 @font-face {
     font-family: TeamFortress;
-    src: 'fonts/TF2secondary.ttf';
+    src: url('fonts/TF2secondary.ttf');
 }
 
 @font-face {
     font-family: TeamFortress;
     font-weight: bold;
-    src: 'fonts/TF2secondary.ttf';
+    src: url('fonts/TF2secondary.ttf');
 }
 
 html {
